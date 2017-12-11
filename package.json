@@ -4,7 +4,7 @@
   "description": "Pure React Carousel",
   "main": "index.js",
   "dependencies": {
-    "create-react-class": "^15.6.2",
+    "create-react-class": "git+https://github.com/takeshi4126/create-react-class.git",
     "exenv": "^1.2.0",
     "kw-react-tween-state": "^0.1.5",
     "object-assign": "^4.1.0",
